@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Olá! Eu somos a [ Gremory Company ]
 
-<!--
-**GremoryCompany/Gremorycompany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Empresa focada em JavaScript & Node.js  
+🚀 Sempre aprendendo e criando projetos novos  
+📫 Contato: [gremorycompany2025@gmail.com]
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)
+
+### 🚧 Projetos em destaque
+- 🔧 [Projeto 1](https://github.com/seuusuario/projeto1)
+- 🤖 [Bot de Discord](https://github.com/seuusuario/bot-discord)
