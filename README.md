@@ -1,6 +1,6 @@
 <!-- Banner GIF -->
 <p align="center">
-  <img src="https://usagif.com/wp-content/uploads/gifs/dragon-83.gif" width="100%" />
+  <img src="https://i.pinimg.com/736x/15/ca/1c/15ca1c36e25df4a3477f1006ea272041.jpg" width="100%" />
 </p>
 
 <h1 align="center">
